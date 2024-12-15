@@ -1,0 +1,13 @@
+# Core libraries
+pandas==2.1.1
+matplotlib==3.7.3
+seaborn==0.12.2
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# OpenAI API (with AI Proxy)
+openai==0.28.1
+
+# Optional (for argparse CLI enhancements, if needed)
+argparse==1.4.0
